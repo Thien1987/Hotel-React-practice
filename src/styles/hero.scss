@@ -1,0 +1,38 @@
+
+.hero {
+    text-align: center;
+    width: 100%;
+    padding: 200px;
+    height: 100vh;
+    background: url('../images/img-home.jpg') no-repeat;
+    background-size: 100% ;
+    // background-size: cover;
+    display: block;
+
+    
+    
+    
+    .para {
+        color: white;
+        font-size: 50px;
+    }
+
+    .secondText{
+        color: white;
+        font-size: 30px;
+    }
+
+    .heroButton{
+        background-color: transparent;
+        color: white;
+        border: solid white;
+        padding: 5px 30px;
+        font-size: 25px;
+    }
+
+    .heroButton:hover{
+        background-color: orange;
+        transition: 250ms ease-out;
+    }
+}
+

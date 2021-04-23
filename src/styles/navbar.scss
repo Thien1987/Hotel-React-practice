@@ -1,0 +1,70 @@
+header{
+    background-color: black;
+    padding: 25px;
+    height: 80px;
+    position: sticky;
+    top: 0;
+
+    .logo{
+
+        
+
+        .a{
+            color: white;
+            
+           
+        }
+    }
+}
+
+.logoTitle{
+font-size: 35px;
+
+}
+
+.navigation{
+
+    padding-right: 30px;
+
+
+    ul{
+        float: right;
+        li{
+            float: left;
+            list-style: none;
+            margin-left: 20px;
+           
+
+            .loveIt{
+                background:black;
+                border: none; 
+                color: white;
+                font-size: larger; 
+            }
+
+            .loveIt:hover{
+
+                color: blue;
+                 transition: 0.25 ease-out;
+                 
+             }
+
+              
+        }
+
+        .bookNow{
+            color: white;
+            background-color: orange;
+            border-color: orange;
+
+        } 
+
+        .bookNow:hover{
+            background-color: white;
+            color: orange;
+            border-color: white;
+
+        }
+        
+    }
+}

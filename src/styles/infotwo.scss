@@ -1,0 +1,61 @@
+.infoTwoContainer{
+    text-align: center;
+    width: 100%;
+    height: 1300px;
+    padding-bottom: 20px;
+
+    
+    
+
+    .infoTwoPara{
+
+        text-align: left;
+        display: block;
+        padding-top: 50px;
+        padding-left: 250px;
+        padding-right: 250px;
+        
+    }
+
+    .infoTwoPictures{
+
+        padding: 25px 25px ;
+
+        .imagesContainer{
+            position: flex;
+        }
+
+
+        img{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 10px;
+            margin-right: 10px
+            }
+
+            .imagesSet:hover{
+                transform: scale(2);
+            }
+
+    }
+
+   
+
+    
+
+   
+    .bottomText{
+        text-align: center;
+        padding-top: 50px;
+        padding-left: 250px;
+        padding-right: 250px;
+        padding-bottom: 50px;
+    }
+
+    .botomPara{
+        text-align: left;
+    }
+
+
+    
+}

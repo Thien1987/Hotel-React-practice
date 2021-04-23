@@ -1,0 +1,55 @@
+.cardTwo{
+
+    text-align: center;
+    width: 100%;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/relax.jpg) no-repeat;
+    
+    background-size: 100%;
+    background-position: center;
+    height: 600px;
+
+    .cardTwoContainer{
+
+        padding-top: 100px;
+
+        h1{
+            color: white;
+            
+        }
+
+        p{
+            color: white;
+            font-size: larger;
+        }
+
+        .cardTwoPara{
+            padding-top: 80px;
+        }
+
+
+
+        .cardTwoButton{
+
+                margin-top: 80px;
+                margin-bottom: 30px;
+                background-color: transparent;
+                border: solid gray;
+                color: white;
+                font-size: 20px;
+                padding: 5px 30px;
+            
+        }
+        
+        .cardTwoButton:hover{
+            background-color: white;
+            color: black;
+            transition: 250ms ease-out;
+        }
+
+    }
+
+
+}

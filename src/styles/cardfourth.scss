@@ -1,0 +1,79 @@
+.cardFourthBox{
+
+    height: 300px;
+    text-align: center;
+
+
+
+.fourthInput{
+    padding-top: 50px;
+    padding-bottom: 125px;
+    width: 100%;
+   display: inline-flex;
+   justify-content: center;
+    
+}
+
+.fourthTitle{
+    justify-content: center;
+    position: relative;
+}
+
+.inputBox{
+
+    margin-right:20px ;
+}
+
+.inputBoxDate{
+
+    background-color: transparent;
+        color: black;
+        border: solid thin rgb(180, 179, 179);
+        padding: 4px 25px;
+        font-size: 25px;
+}
+
+.inputBoxAmount{
+
+    background-color: transparent;
+        color: black;
+        border: solid thin rgb(82, 82, 82);
+        padding: 5px 5px 5px 60px;
+        font-size: 25px;
+}
+
+
+.fourthButton{
+    font: x-large;
+    background-color: transparent;
+    color: black;
+    border: solid thin rgb(180, 179, 179);
+    padding: 4px 60px;
+    font-size: 25px;
+    text-transform: uppercase;
+
+    // input[type=submit] {
+    //     font-size: 10px;
+    // }
+}
+
+.fourthButton:hover{
+    border-color: orange;
+    color: orange;
+    transition: 250ms ease-out;
+}
+
+    
+
+
+
+label {
+        display: block;
+        font: 1rem 'Fira Sans', sans-serif;
+    }
+    
+    input,
+    label {
+        margin: .4rem 0;
+    }
+}

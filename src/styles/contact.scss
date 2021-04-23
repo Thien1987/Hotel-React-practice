@@ -1,0 +1,41 @@
+.contactContainer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 100%;
+    text-align: center;
+
+
+    .inputBox label{
+
+        font-weight: bold;
+        font-size: larger;
+    }
+
+
+    .inputRow{
+        
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: left;
+        padding-left: 200px;
+    }
+
+    .inputBox2{
+
+        border-color: rgb(197, 197, 197);
+        border-width: thin;
+    }
+
+    .contactButton{
+        padding: 15px 20px;
+        border-width: thin;
+        border-color:rgb(197, 197, 197) ;
+    }
+
+    .contactButton:hover{
+        border-color: orange;
+        color: orange;
+        transition: ease-out 250ms;
+
+    }
+}

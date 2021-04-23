@@ -1,0 +1,45 @@
+.activitiesContainer{
+
+
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    width: 100%;
+
+    .activitiesTitle{
+
+        padding-bottom: 50px;
+    }
+
+    img{
+        padding-left: 20px;
+        width: 380px;
+        height: 350px;
+      
+    }
+
+    .imgGroup{
+        
+        display:inline-flex;
+        
+    }
+
+    .activitiesImg{
+       
+         
+    }
+    .activitiesImg:hover{
+        transform: scale(1.5);
+    }  
+
+
+    .activitiesLabel{
+        float: left;
+        padding-left: 20px;
+        font-size: 25px;
+        font-weight: bolder;
+    }
+    
+
+    
+}
