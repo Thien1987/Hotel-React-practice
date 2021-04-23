@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Thien1987/Hotel-React-practice.git/static/css/main.c2302fa5.chunk.css",
+    "main.js": "/Thien1987/Hotel-React-practice.git/static/js/main.8527a2e7.chunk.js",
+    "main.js.map": "/Thien1987/Hotel-React-practice.git/static/js/main.8527a2e7.chunk.js.map",
+    "runtime-main.js": "/Thien1987/Hotel-React-practice.git/static/js/runtime-main.57019bd9.js",
+    "runtime-main.js.map": "/Thien1987/Hotel-React-practice.git/static/js/runtime-main.57019bd9.js.map",
+    "static/js/2.5f05fe79.chunk.js": "/Thien1987/Hotel-React-practice.git/static/js/2.5f05fe79.chunk.js",
+    "static/js/2.5f05fe79.chunk.js.map": "/Thien1987/Hotel-React-practice.git/static/js/2.5f05fe79.chunk.js.map",
+    "index.html": "/Thien1987/Hotel-React-practice.git/index.html",
+    "static/css/main.c2302fa5.chunk.css.map": "/Thien1987/Hotel-React-practice.git/static/css/main.c2302fa5.chunk.css.map",
+    "static/js/2.5f05fe79.chunk.js.LICENSE.txt": "/Thien1987/Hotel-React-practice.git/static/js/2.5f05fe79.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Thien1987/Hotel-React-practice.git/static/media/relax.34ef6dfa.jpg",
+    "static/media/familybeach.b945be68.jpg": "/Thien1987/Hotel-React-practice.git/static/media/familybeach.b945be68.jpg",
+    "static/media/jetski.bd1712a9.jpg": "/Thien1987/Hotel-React-practice.git/static/media/jetski.bd1712a9.jpg",
+    "static/media/resort1.240c67f9.jpg": "/Thien1987/Hotel-React-practice.git/static/media/resort1.240c67f9.jpg",
+    "static/media/resort2.a6842b5c.jpg": "/Thien1987/Hotel-React-practice.git/static/media/resort2.a6842b5c.jpg",
+    "static/media/resort3.99782866.jpg": "/Thien1987/Hotel-React-practice.git/static/media/resort3.99782866.jpg",
+    "static/media/resort4.80f29c4e.jpg": "/Thien1987/Hotel-React-practice.git/static/media/resort4.80f29c4e.jpg",
+    "static/media/resort5.9701e03c.jpg": "/Thien1987/Hotel-React-practice.git/static/media/resort5.9701e03c.jpg",
+    "static/media/resort6.8d54aa13.jpg": "/Thien1987/Hotel-React-practice.git/static/media/resort6.8d54aa13.jpg",
+    "static/media/room1.c6874cb0.jpg": "/Thien1987/Hotel-React-practice.git/static/media/room1.c6874cb0.jpg",
+    "static/media/room2.cbbb0506.jpg": "/Thien1987/Hotel-React-practice.git/static/media/room2.cbbb0506.jpg",
+    "static/media/room3.555bc1e2.jpg": "/Thien1987/Hotel-React-practice.git/static/media/room3.555bc1e2.jpg",
+    "static/media/room4.0f031683.jpg": "/Thien1987/Hotel-React-practice.git/static/media/room4.0f031683.jpg",
+    "static/media/seaplane.05f08625.jpg": "/Thien1987/Hotel-React-practice.git/static/media/seaplane.05f08625.jpg",
+    "static/media/snorkeling.580031ee.jpg": "/Thien1987/Hotel-React-practice.git/static/media/snorkeling.580031ee.jpg",
+    "static/media/wellness.c37f50d1.jpg": "/Thien1987/Hotel-React-practice.git/static/media/wellness.c37f50d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57019bd9.js",
+    "static/js/2.5f05fe79.chunk.js",
+    "static/css/main.c2302fa5.chunk.css",
+    "static/js/main.8527a2e7.chunk.js"
+  ]
+}
